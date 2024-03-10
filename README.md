@@ -1,7 +1,7 @@
 This is a bullet journal application called Java Journal.
 
 # Java Journal Pitch
-PA05-the-best-team-pt2’s Java Journal is an efficient, simple to use calendar app for all your journaling needs! 
+Java Journal is an efficient, simple to use calendar app for all your journaling needs! 
 Your session begins by creating a new week or, if you have used Java Journal before, you can open up one of your 
 previously saved weekly journals. Within the app, you can easily schedule new tasks and events to any given day by
 pressing either the “add task” or “add event” button within the settings panel on the top left. Once added, your new 
