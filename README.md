@@ -1,9 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/x6ckGcN8)
-# 3500 PA05 Project Repo
-
-[PA Write Up](https://markefontenot.notion.site/PA-05-8263d28a81a7473d8372c6579abd6481)
-
-![Sample GUI for the journal:](gui.png)
+This is a bullet journal application called Java Journal.
 
 # Java Journal Pitch
 PA05-the-best-team-pt2’s Java Journal is an efficient, simple to use calendar app for all your journaling needs! 
@@ -39,6 +34,8 @@ Evil Skull:
 
 Dancing Skeleton:
 - https://imgflip.com/gif/4h4jrr
+
+The program utilizes the following coding principles:
 
 # SOLID Principles
 ## Single-Responsibility Principle: 
